@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Cantina Italiana</title>
+</head>
+<body style="font-family: Arial; background-color: #f4f4f4; text-align: center;">
+
+    <h1 style="color: darkred;">🍝 Cantina Italiana</h1>
+
+    <h2>Produtos</h2>
+    <ul style="list-style: none;">
+        <li>🍕 Pizza - R$30</li>
+        <li>🍝 Macarrão - R$25</li>
+        <li>🥘 Lasanha - R$35</li>
+    </ul>
+
+    <h2>Serviços</h2>
+    <ul style="list-style: none;">
+        <li>🚚 Delivery</li>
+        <li>🏠 Retirada no local</li>
+    </ul>
+
+    <hr>
+
+    <h3>Nome do aluno: SEU NOME AQUI</h3>
+    <h3>Data: 27/03/2026</h3>
+
+</body>
+</html>
